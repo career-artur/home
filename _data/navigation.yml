@@ -1,14 +1,17 @@
 # main links links
 main:
-  - title: "Cariculum Vitea"
+  - title: "CV(short)"
     url: /cv/
+
+  - title: "download CV(full)"
+    url: /download/
+
+  - title: "Certificates"
+    url: /certificates/
 
   - title: "Skills"
     url: /skills/    
-
-  - title: "Certificates"
-    url: /certificates/    
-    
+   
   - title: "Learn"
     url: /learn/
         
