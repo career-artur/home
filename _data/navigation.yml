@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "CV(short)"
+  - title: "curriculum vitae"
     url: /cv/
-
-  - title: "download CV(full)"
-    url: /download/
 
   - title: "Certificates"
     url: /certificates/
