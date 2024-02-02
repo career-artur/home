@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Artur Schulz / CV-Site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Artur Schulz"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Artur Schulz"
-  avatar           : "profile.png"
+  avatar           : "Artur_Schulz.jpg"
   bio              : "IT-Expert with broad knowledge...(tbd.)"
   location         : "Germany, Stuttgart"
   employer         : "Mercedes-Benz AG"
