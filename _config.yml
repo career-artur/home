@@ -175,16 +175,16 @@ kramdown:
 
 # Collections
 collections:
-        CV:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  certificates:
+  publications:
     output: true
     permalink: /:collection/:path/
-  learn:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  journey:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cv
+  # _publications
   - scope:
       path: ""
-      type: cv
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -236,12 +236,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _learn
+  # _talks
   - scope:
       path: ""
-      type: learn
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 

@@ -3,14 +3,20 @@ main:
   - title: "curriculum vitae"
     url: /cv/
 
-  - title: "certificates"
+  - title: "Certificates"
     url: /certificates/
 
-  - title: "skills"
+  - title: "Skills"
     url: /skills/    
    
   - title: "learn"
     url: /learn/
         
-  - title: "journey"
-    url: /journey/
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "CV"
+#    url: /cv/
+    
+#  - title: "Guide"
+#    url: /markdown/
