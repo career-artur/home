@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home1"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Artur Schulz"
 description              : &description "personal description"
