@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /journey/
+title: "Journey"
+excerpt: "journey"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /journey/
+  - /journey.html
 ---
 
 {% include base_path %}
