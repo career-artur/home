@@ -3,9 +3,6 @@ permalink: /journey/
 title: "Journey"
 excerpt: "journey"
 author_profile: true
-redirect_from: 
-  - /journey/
-  - /journey.html
 ---
 
 {% include base_path %}
