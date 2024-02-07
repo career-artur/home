@@ -20,26 +20,27 @@ Skills
 Education
 ======
 * B.S. in Information and Engineering, Karlsruhe Institue of Technology (KIT), 2012
-
-Work experience
-======
-* Mercedes-Benz AG: Solution Architect
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Daimler TSS Gmbh: Senior Test Engineer
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-* Daimler Greater China: Test Manager
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ 
+ Work experience
+======
+Mercedes-Benz AG: Solution Architect
+  * d
+  * 
+  * 
 
-* Daimler TSS Gmbh: Test Automation Engineer
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub  
+Daimler TSS Gmbh: Senior Test Engineer
+  * d
+  * 
+  * 
+  
+Daimler Greater China: Test Manager
+  * d
+  * 
+  * 
+
+Daimler TSS Gmbh: Test Automation Engineer
+  * d
+  * 
+  * 
   
