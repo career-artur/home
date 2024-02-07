@@ -9,15 +9,15 @@ author_profile: true
 
 Skills
 ======
-* C# | Java | XML | JSON | HTML | UML | Visual Studio Code | Eclipse | Jira | Confluence | Cloud Computing | Cloud Consulting | SOA | Architecture
-* Test Management | ISTQB CTFL | API Testing | HP ALM | test automation | HP UFT | automotive testing | German/Chinese driving permit   
-* M365 | SharePoint | PowerBI | Power Automate | Azure | Cloud Consulting | Data Analytics
-* ITIL v4 | ITSM | Service Owner | Service Management | MIM | Service Now CSA | CSDM | CMDB | Tool-Transformation Management
-* Customer oriented | self-motivated | service/product focused | growth mindset | German, English, Russian
+* C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
+* Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
+* M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
+* ITIL v4, ITSM, Service Owner, Service Management, MIM, Service Now CSA, CSDM, CMDB, Tool-Transformation Management
+* Customer oriented, self-motivated, service/product focused, growth mindset, German, English, Russian
 
 Education
 ======
-* B.S. in Information and Engineering, Karlsruhe Institue of Technology (KIT), 2012
+* B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/, "Karlsruhe Institute of Technology"), 2012
   
  
  Work experience
