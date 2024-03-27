@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 # Skills
-======
 ## Development
 * C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
 
