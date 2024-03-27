@@ -9,6 +9,7 @@ author_profile: true
 
 # Skills
 ## Development
+<nobr>
 * C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
 
 **Software Quality Assurance**
