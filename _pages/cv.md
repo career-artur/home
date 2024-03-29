@@ -16,10 +16,10 @@ author_profile: true
 
 Education
 ======
-* B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/, "Karlsruhe Institute of Technology"), 2012
-  * Thesis: “Test optimization through [Combinatorial test design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ, "Combinatorial test design (CTD)"), 2012
+* B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/, "Karlsruhe Institute of Technology"){:target="_blank"}, 2012
+  * Thesis: “Test optimization through [Combinatorial Test Design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ?mhsrc=ibmsearch_a&mhq=combinatorial%20test%20design, "Combinatorial Test Design (CTD)"){:target="_blank"}, 2012
   
-  Work experience
+Work experience
 ======
 Mercedes-Benz AG: Solution Architect/
   * Managed a team of 11 experts as Product Owner for IoT platform administration & DevOps services (Azure), applying agile methodologies and overseeing internal infrastructure operations services generating over 400.000€ yearly revenue. Implemented services including "User Management and Service Principal (SPN)", "Platform SSL Certificate", "Site Reliability Engineering (SRE)", "24/7 Cloud Operations", and "Reporting" based on Power BI for KPI dashboards.
