@@ -22,7 +22,7 @@ author_profile: true
 Education
 ======
 * B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/, "Karlsruhe Institute of Technology"), 2012
-** Thesis: “Test optimization through [Combinatorial test design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ, "Combinatorial test design (CTD)"), 2012
+  * Thesis: “Test optimization through [Combinatorial test design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ, "Combinatorial test design (CTD)"), 2012
   
  
  Work experience
