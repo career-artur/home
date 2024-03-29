@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-# Skills
+# <center> Skills </center>
 * C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
 * Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
 * M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
