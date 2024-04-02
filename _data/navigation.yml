@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "curriculum vitae"
+  - title: "Curiculum Vitae"
     url: /cv/
 
-  - title: "certificates"
+  - title: "Certificates"
     url: /certificates/
 
-  - title: "skills"
+  - title: "Skills"
     url: /skills/    
    
-  - title: "learn"
+  - title: "Learn"
     url: /learn/
 
-  - title: "journey"
+  - title: "Journey"
     url: /journey/
