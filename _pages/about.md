@@ -16,7 +16,7 @@ Hello there! I'm Artur, a passionate and results-driven IT professional with ove
 
 📧 **Let's Connect on [LinkedIn](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}**: Interested in discussing potential collaborations or just want to say hello? I'm just a message away. Let's connect and explore how we can achieve greatness together. 
 
- 👉 **Explore My Skills**: Navigate through my professional journey, projects, and achievements. From [Your Previous Roles] to [Your Recent Accomplishments], discover how I've added value to every role.
+[comment]: 👉 **Explore My Skills**: Navigate through my professional journey, projects, and achievements. From [Your Previous Roles] to [Your Recent Accomplishments], discover how I've added value to every role.
 
 💡 Innovation in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities.
 
