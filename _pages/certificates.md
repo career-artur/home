@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Certificates
-======
 
-in Table format?
+| Certificte | Certificte name | validity |
+| ITIL| ITIL | date xxx|
+| DevOps | name | date xxx |
