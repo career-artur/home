@@ -11,8 +11,9 @@ author_profile: true
 * C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
 * Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
 * M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
-* ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, Service Now, Common Service Data Model (CSDM), CMDB, Transformation Management
-* Customer oriented, self-motivated, service/product focused, growth mindset, German, English, Russian
+* ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, ServiceNow, Common Service Data Model (CSDM), CMDB, Transformation Management
+* Customer oriented, self-motivated, service/product focused, growth mindset
+* Languages: German, English, Russian
 
 Education
 ======
