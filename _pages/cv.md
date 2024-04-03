@@ -12,6 +12,7 @@ author_profile: true
 * Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
 * M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
 * ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, ServiceNow, Common Service Data Model (CSDM), CMDB, Transformation Management
+* Scrum, SAFe 6, Kanban
 * Customer oriented, self-motivated, service/product focused, growth mindset
 * Languages: German, English, Russian
 
