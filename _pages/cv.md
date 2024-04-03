@@ -25,6 +25,11 @@ Work experience
   **Mercedes-Benz AG: Solution Architect (2019 - now)**
   * Managed a team of 11 experts as Product Owner for IoT platform administration & DevOps services (Azure), applying agile methodologies and overseeing internal infrastructure operations services generating over 400.000€ yearly revenue. Implemented services including "User Management and Service Principal (SPN)", "Platform SSL Certificate", "Site Reliability Engineering (SRE)", "24/7 Cloud Operations", and "Reporting" based on Power BI for KPI dashboards.
   * Spearheaded the ITSM transformation from CISM to ServiceNow within Mercedes-Benz Vans, overseeing 400 applications across six locations, reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM trainings, and implemented Major Incident Management processes.
+  * Committee work:
+    * Achtiecture Integration Squad
+    * MB VAN Cloud Community Lead
+    * ServiceNow Champion in ITSM Community
+
 
   **Mercedes-Benz Tech Innovation: Senior Test Engineer (08/2018 - 12/2018)**
   * Reviewed functional and technical documentation (User Stories in Jira, Confluence) for the "Mercedes me" App.
