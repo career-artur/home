@@ -18,7 +18,7 @@ Hello there! I'm Artur, a passionate and results-driven IT professional with ove
 
 [comment]: 👉 **Explore My Skills**: Navigate through my professional journey, projects, and achievements. From [Your Previous Roles] to [Your Recent Accomplishments], discover how I've added value to every role.
 
-💡 Innovation in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities. (examples)
+💡 Innovation in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities. (tbd. provide examples!!!)
 
 
 Thank you for visiting! Your interest is appreciated, and I look forward to the possibility of working together.
