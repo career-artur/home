@@ -28,5 +28,7 @@ Thank you for visiting! Your interest is appreciated, and I look forward to the 
 
 :us: United States
 
+:flag_de: Germany 🇩🇪
+
 Best regards,
 Artur Schulz
