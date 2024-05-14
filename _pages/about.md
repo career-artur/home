@@ -20,7 +20,7 @@ Hello there! I'm Artur, a passionate and results-driven IT professional with ove
 
 💡 Innovation in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities. (tbd. provide examples!!!)
 
-<img src="images/WhatsApp.svg" alt="WhatsApp" width="20">[Whats app me"](https://wa.me/4917625660032)
+<img src="images/WhatsApp.svg" alt="WhatsApp" width="20">[Whats app me!](https://wa.me/4917625660032){:target="_blank"}
 
 Thank you for visiting! Your interest is appreciated, and I look forward to the possibility of working together.
 
