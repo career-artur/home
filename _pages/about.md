@@ -24,13 +24,9 @@ Hello there! I'm Artur, a passionate and results-driven IT professional with ove
 
 Thank you for visiting! Your interest is appreciated, and I look forward to the possibility of working together.
 
-:flag_us: United States
-
-:us: United States
-
-:flag_de: Germany 🇩🇪
-
-:iphone:
 
 Best regards,
+<img src="images/signature.svg">
+
+
 Artur Schulz
