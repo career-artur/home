@@ -30,5 +30,7 @@ Thank you for visiting! Your interest is appreciated, and I look forward to the 
 
 :flag_de: Germany 🇩🇪
 
+:iphone:
+
 Best regards,
 Artur Schulz
