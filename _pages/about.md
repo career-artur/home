@@ -12,7 +12,7 @@ redirect_from:
 
 Hello there! I'm Artur Schulz, a passionate and results-driven IT professional with over 10 years experience in the automotive IT&RD area eager to contribute to your company's success. This is my digital space, where innovation meets expertise.
 
-📚 **Download My CV**: Ready to take a closer look? Download my CV to explore my qualifications, skills, and a more detailed overview of my professional experience. Your next top-performing team member might just be a click away.
+📚 **Download My CV**: Ready to take a closer look? Explore my qualifications, skills, and a more detailed overview of my professional experience. Your next top-performing team member might just be a click away.
 
 📧 **Let's Connect on [LinkedIn](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}**: Interested in discussing potential collaborations or just want to say hello? I'm just a message away. Let's connect and explore how we can collaborate together. 
 
