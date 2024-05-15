@@ -28,4 +28,5 @@ Thank you for visiting! Your interest is appreciated, and I look forward to the 
 Best regards,
 <br>
 <img src="images/signature.png">
+<br>
 Artur Schulz
