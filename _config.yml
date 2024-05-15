@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "<center> B.Sc. Artur Schulz</center>"
   avatar           : "Artur_Schulz.jpg"
-  bio              : <img src="images/flag_germany.png" width="10"> "Automotive IT-Expert with broad information technology knowledge"
+  bio              : <img src="images/flag_germany.png" width="10" height="10"><nobr> "Automotive IT-Expert with broad information technology knowledge"
   location         : "Germany, Stuttgart"
   employer         : "Mercedes-Benz AG"
   pubmed           :
