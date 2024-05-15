@@ -26,7 +26,7 @@ Thank you for visiting! Your interest is appreciated, and I look forward to the 
 
 
 Best regards,
-<img src="images/signature.svg">
+<img src="images/signature.png">
 
 
 Artur Schulz
