@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "<img src="images/flag_germany.png" width="10" height="10"><center> B.Sc. Artur Schulz</center>"
+  name             : "<center> B.Sc. Artur Schulz</center>"
   avatar           : "Artur_Schulz.jpg"
   bio              : "Automotive IT-Expert with broad information technology knowledge"
   location         : "Germany, Stuttgart"
