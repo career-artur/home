@@ -12,13 +12,13 @@ redirect_from:
 
 Hello there! I'm Artur Schulz, a passionate and results-driven IT professional with over 10 years experience in the automotive IT&RD area eager to contribute to your company's success. This is my digital space, where innovation meets expertise.
 
-📚 **Download My CV**: Ready to take a closer look? Explore my qualifications, skills, and a more detailed overview of my professional experience. Your next top-performing team member might just be a click away.
+📚 **[View My CV](https://career-artur.github.io/page.github.io//cv/){:target="_blank"}**: Ready to take a closer look? Explore my qualifications, skills, and a more detailed overview of my professional experience. Your next top-performing team member might just be a click away.
 
-📧 **Let's Connect on [LinkedIn](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}**: Interested in discussing potential collaborations or just want to say hello? I'm just a message away. Let's connect and explore how we can collaborate together. 
+📧 **Let's connect on [LinkedIn](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}**: Interested in discussing potential collaborations or just want to say hello? I'm just a message away. Let's connect and explore how we can collaborate together. 
 
 [comment]: 👉 **Explore My Skills**: Navigate through my professional journey, projects, and achievements. From [Your Previous Roles] to [Your Recent Accomplishments], discover how I've added value to every role.
 
-💡 Expertise in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities. (tbd. provide examples!!!)
+[comment]:💡 Expertise in Action: Dive into the projects that showcase my problem-solving skills, creativity, and commitment to excellence. I believe in turning challenges into opportunities. (tbd. provide examples!!!)
 
 <img src="images/WhatsApp.svg" alt="WhatsApp" width="20">[Whats app me!](https://wa.me/4917625660032){:target="_blank"}
 
