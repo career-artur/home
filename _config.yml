@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Artur Schulz"
 description              : &description "personal description"
 url                      : https://career-artur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "career-artur/home" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "career-artur/home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
