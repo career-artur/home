@@ -17,6 +17,5 @@ author_profile: true
 | | Microsoft Certified: Azure Administrator Associate | Microsoft | 23-March-2023 | 24-March-2024 | <a href="https://www.credly.com/earner/earned/badge/14537ebe-eaea-4eea-9eee-9213470d3123">Credly</a> |
 | | Microsoft Certified: Azure Administrator Associate | Microsoft | 24-March-2024 | 25-March-2025 | <a href="https://learn.microsoft.com/en-us/users/schulzartur008-5707/credentials/f9279749bc5d9603?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft</a> |
 | | Certified SAFe® 5 Agilist | Scaled Agile Inc | 19-August-2021 | 19-August-2021 | <a href="https://www.credly.com/earner/earned/badge/647d2ca4-72cb-4836-a8e5-9ff081931501">Credly</a> |
-| certificate 1 | certificate 1 | certificate 1 | certificate 1 | 
-| certificate 1 | certificate 1 | certificate 1 | certificate 1 |
-| certificate 1 | certificate 1 | certificate 1 | certificate 1 |
+| | Certified SAFe® 6 Agilist | Scaled Agile Inc | 4-April-2023 | 19-August-23 | <a href="https://www.credly.com/badges/bf904b44-ac97-475c-b120-736039a39103">Credly</a> | 
+| | ServiceNow Certified System Administrator | ServiceNow | August-2023 | - | Credential ID 24546654 |
