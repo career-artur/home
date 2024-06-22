@@ -7,10 +7,4 @@ main:
     url: /certificates/
 
   - title: "Projects"
-    url: /projects/    
-   
-  - title: "Learn"
-    url: /learn/
-
-  - title: "Journey"
-    url: /journey/
+    url: /projects/
