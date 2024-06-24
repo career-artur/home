@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Curiculum Vitae"
-    url: /cv/
+    url: cv/
 
   - title: "Certificates"
-    url: /certificates/
+    url: certificates/
 
     - title: "Recommendations"
-    url: /recommendations/
+    url: recommendations/
