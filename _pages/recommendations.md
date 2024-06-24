@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+<link rel="stylesheet" type="text/css" href="/home/assets/css/recommendations.css">
 
 <main class="scaffold-layout__main">
     
