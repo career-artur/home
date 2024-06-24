@@ -18,13 +18,13 @@ author_profile: true
 
 Education
 ======
-* **B.Sc. in Information and Engineering**, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/ "Karlsruhe Institute of Technology"){:target="_blank"}, 2012
+* **B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/ "Karlsruhe Institute of Technology"){:target="_blank"},** 2012
   * **Thesis: “Test optimization through [Combinatorial Test Design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ?mhsrc=ibmsearch_a&mhq=combinatorial%20test%20design "Combinatorial Test Design (CTD)"){:target="_blank"} @IBM**, 2012
   
 Work experience
 ======
   **Mercedes-Benz AG: Solution Architect (2019 - now)**
-  * Plan, build and run security, operations & reporting services with a team of 11 experts coordinated as Product Owner for IoT platform administration & DevOps services (Azure). Applied agile methodologies and improved effiziency and oversaw internal infrastructure operations services generating over 400.000€ yearly revenue. Transitoned and Transfomred all Services to new carveout Partner 
+  * Plan, build and run IoT platform administration & DevOps services (Azure) and coordinated a team of 11 experts as Product Owner. Improved effiziency of ser through introduction of agile methotologies and oversaw internal infrastructure operations services generating over 400.000€ yearly revenue. Transitoned and Transfomred all Services to new carveout Partner 
   * Spearheaded the ITSM transformation from CISM to ServiceNow within Mercedes-Benz Vans, overseeing 400 applications across multiple locations, reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM trainings, and implemented Major Incident Management processes.
   * Committee work (tbd.):
     * Achtiecture Integration Squad
