@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Certificates"
-permalink: /certificates/
+title: "Recommendations"
+permalink: /recommendations/
 author_profile: true
 ---
 
