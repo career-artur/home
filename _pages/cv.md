@@ -24,18 +24,18 @@ Education
 Work experience
 ======
   **Mercedes-Benz AG: Solution Architect (2019 - now)**
-  * Plan, build and run IoT platform administration & DevOps services (Azure) and coordinated a team of 11 experts as Product Owner. Improved effiziency of ser through introduction of agile methotologies and oversaw internal infrastructure operations services generating over 400.000€ yearly revenue. Transitoned and Transfomred all Services to new carveout Partner 
+  * Plan, build and run administration & DevOps services for an IoT platform and coordinated a development team out of 11 experts as Product Owner and generated over 400.000€ yearly revenue. Improved effiziency of servicedelivery through introduction of agile methotologies, improved securtiy and saved money. In 2022 Transitoned and Transfomred all Services to new carveout Partner.
   * Spearheaded the ITSM transformation from CISM to ServiceNow within Mercedes-Benz Vans, overseeing 400 applications across multiple locations, reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM trainings, and implemented Major Incident Management processes.
   * Committee work (tbd.):
     * Achtiecture Integration Squad
     * MB VAN Cloud Community Lead
     * ServiceNow Champion in ITSM Community
-  * Consulting? (tbd.)
 
   **Mercedes-Benz Tech Innovation: Senior Test Engineer (08/2018 - 12/2018)**
   * Reviewed functional and technical documentation (User Stories in Jira, Confluence) for the "Mercedes me" App.
   * Designed and documented logical test cases, aligned with Customer Function Owner's and Release Management requirements, applying appropriate test techniques.
-  * Executed, documented test cases, including test drives and onboard feature testing using various tools, implemented, executed, and analyzed automated test cases, and collaborated on error reports (Defects) with defect managers and developers.
+  * Executed documented test cases, including test drives and onboard feature testing using various tools, implemented, executed, and analyzed automated test cases, and collaborated on error reports (Defects) with defect managers and developers.
+  * Onboarded and coached new Test Engineers
   
   **Mercedes-Benz Group China Ltd.: Test Manager (06/2016 - 07/2018)**
   * Led the establishment of an end-to-end test organization in China for Mercedes-Benz connectivity solution "Mercedes Me Connect".
@@ -43,7 +43,7 @@ Work experience
   * Managed test execution, maintenance of functional test cases, tracked test progress, adapted processes to local requirements, provided E2E tools technical support, and contributed to the successful Go-Live of Mercedes me connect & Mercedes me App projects in China.
 
   **Mercedes-Benz Tech Innovation: Test Automation Engineer (09/2012 - 06/2016)**
-  * Engaged in diverse QA roles at Mercedes-Benz Connected Car Test (RD) and served as Test Manager for Mercedes me connect China (desktop and mobile app)
+  * Engaged in diverse Quality Assurance projects at Mercedes-Benz Connected Car Test (RD) and served as Test Manager for Mercedes me connect China (desktop and mobile app)
   * Led Onsite/Offsite E2E Test coordination, knowledge transfer, and Go-live enablement, including RFI Test Coordination & RGA support.
-  * Implemented custom test tools, established test automation frameworks, and executed automated UI tests for Aftersales applications at Mercedes-Benz.
+  * Implemented custom testing tools, established test automation frameworks, run and maintained automated tests for multesystems and applications at Mercedes-Benz.
   
