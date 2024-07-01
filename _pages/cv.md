@@ -14,7 +14,7 @@ author_profile: true
 * ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, ServiceNow, Common Service Data Model (CSDM), CMDB, Transformation Management
 * Scrum, SAFe 6, Kanban
 * Customer oriented, self-motivated, service/product focused, growth mindset
-* Languages: German, English, Russian
+* Languages: German, Russian, English, French, Chinese
 
 Education
 ======
@@ -24,12 +24,13 @@ Education
 Work experience
 ======
   **Mercedes-Benz AG: Solution Architect (2019 - now)**
-  * Plan, build and run administration & DevOps services for an IoT platform and coordinated a development team out of 11 experts as Product Owner and generated over 400.000€ yearly revenue. Improved effiziency of servicedelivery through introduction of agile methotologies, improved securtiy and reduced costs money. In 2022 Transitoned and Transfomred all Services to new carveout Partner.
-  * Spearheaded the ITSM transformation from CISM to ServiceNow within Mercedes-Benz Vans, overseeing 400 applications across multiple locations, reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM trainings, and implemented Major Incident Management processes.
-  * Committee work (tbd.):
-    * Achtiecture Integration Squad
-    * MB VAN Cloud Community Lead
-    * ServiceNow Champion in ITSM Community
+  * Plan, build and run internal Cloud Operations services generating over 400.000€ yearly revenue. As Product Owner, coordinated a development team of 11 experts, Enhanced service delivery efficiency by introducing agile methodologies (scrumban), improving security, and reducing costs. In 2022 successfully handed over all services to a new IT delivery partner.
+  * Spearheaded the ITSM transformation from CISM to ServiceNow at Mercedes-Benz Vans, overseeing 400 applications across multiple locations and reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM training for internal IT teams, and implemented Major Incident Management processes in multiple MB plants. Increased transparency by setting up Dashboards to track KPI's (MTTR, FTR, CFR)
+  * Solution Architecture consulting
+    * Supporded multiple applications to migrate to cloud or hybride cloud 
+    * incl. Setup collaboration models for smooth operations
+    * Led MB VAN Cloud Community
+    * ServiceNow Champion (internal ITSM/ServiceNow SME)
 
   **Mercedes-Benz Tech Innovation: Senior Test Engineer (08/2018 - 12/2018)**
   * Reviewed functional and technical documentation (User Stories in Jira, Confluence) for the "Mercedes me" App.
