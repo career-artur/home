@@ -27,7 +27,7 @@ Work experience
   * Plan, build and run internal Cloud Operations services generating over 400.000€ yearly revenue. As Product Owner, coordinated a development team of 11 experts, Enhanced service delivery efficiency by introducing agile methodologies (scrumban), improving security, and reducing costs. In 2022 successfully handed over all services to a new IT delivery partner.
   * Spearheaded the ITSM transformation from CISM to ServiceNow at Mercedes-Benz Vans, overseeing 400 applications across multiple locations and reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM training for internal IT teams, and implemented Major Incident Management processes in multiple MB plants. Increased transparency by setting up Dashboards to track KPI's (MTTR, FTR, CFR)
   * Solution Architecture consulting
-    * Supporded multiple applications to migrate to cloud or hybride cloud 
+    * Supported multiple applications to migrate to cloud or hybride cloud 
     * incl. Setup collaboration models for smooth operations
     * Led MB VAN Cloud Community
     * ServiceNow Champion (internal ITSM/ServiceNow SME)
