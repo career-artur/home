@@ -24,7 +24,7 @@ Education
 Work experience
 ======
   **Mercedes-Benz AG: Solution Architect (2019 - now)**
-  * Plan, build and run administration & DevOps services for an IoT platform and coordinated a development team out of 11 experts as Product Owner and generated over 400.000€ yearly revenue. Improved effiziency of servicedelivery through introduction of agile methotologies, improved securtiy and saved money. In 2022 Transitoned and Transfomred all Services to new carveout Partner.
+  * Plan, build and run administration & DevOps services for an IoT platform and coordinated a development team out of 11 experts as Product Owner and generated over 400.000€ yearly revenue. Improved effiziency of servicedelivery through introduction of agile methotologies, improved securtiy and reduced costs money. In 2022 Transitoned and Transfomred all Services to new carveout Partner.
   * Spearheaded the ITSM transformation from CISM to ServiceNow within Mercedes-Benz Vans, overseeing 400 applications across multiple locations, reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM trainings, and implemented Major Incident Management processes.
   * Committee work (tbd.):
     * Achtiecture Integration Squad
