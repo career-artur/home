@@ -1,10 +1,16 @@
 # main links
 main:
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Top Skills"
+    url: /skills/
+  
+  - title: "Goals"
+    url: /goals/
+
   - title: "Curiculum Vitae"
     url: /cv/
 
   - title: "Certificates"
     url: /certificates/
-
-  - title: "Recommendations"
-    url: /recommendations/

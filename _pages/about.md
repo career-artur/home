@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Dear Recruiter,</br></br> welcome to Artur's Professional Profile on Github pages!"
+title: "Dear Recruiter,"
+title: ""
+title: "welcome to Artur's Professional Profile on Github pages!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
