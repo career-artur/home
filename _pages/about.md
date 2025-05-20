@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "Dear Recruiter,"
-title: ""
-title: "welcome to Artur's Professional Profile on Github pages!"
+title: "Dear Recruiter, welcome to Artur's Professional Profile on Github pages!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-🚀 Elevate Your organization with Artur's Exceptional Skills, Experience and Network 🚀
+🚀 Elevate Your organization with Artur's Exceptional Skills, Experience and Network
 
-Hello there! I'm Artur Schulz, a passionate and results-driven IT professional with over 12 years experience in the automotive IT and Engineering area eager to contribute to your company's success. This is my digital space, where innovation meets expertise.
+I'm Artur Schulz, a passionate and results-driven IT professional with over 12 years experience in the automotive IT and Engineering area eager to contribute to your company's success. This is my digital space, where innovation meets expertise.
 
 📚 **[View my cv](https://career-artur.github.io/page.github.io/cv/){:target="_blank"}**: Ready to take a closer look? Explore my qualifications, skills, and a more detailed overview of my professional experience. Your next top-performing team member might just be a click away.
 
