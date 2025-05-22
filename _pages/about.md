@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I'm Artur Schulz, a passionate and results-driven IT professional with over 12 years experience in the automotive IT and Engineering area eager to contribute to your company's success.
+
 🚀 Elevate Your organization with Artur's Exceptional Skills, Experience and Network
 
-I'm Artur Schulz, a passionate and results-driven IT professional with over 12 years experience in the automotive IT and Engineering area eager to contribute to your company's success. This is my digital space, where innovation meets expertise.
-
-📚 Ready to take a closer look? **[View my cv](https://career-artur.github.io/page.github.io/cv/){:target="_blank"}**:  Explore my qualifications, skills, and a more detailed overview of my professional experience. 
+📚 Ready to take a closer look? **[View my cv](https://career-artur.github.io/page.github.io/home/cv/){:target="_blank"}**:  Explore my qualifications, skills, and a more detailed overview of my professional experience. 
 
 📧 **Let's connect on [LinkedIn](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}**: Interested in discussing potential collaborations or just want to say hello? I'm just a message away. Let's connect and explore how we can collaborate together. 
 
