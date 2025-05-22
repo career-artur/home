@@ -11,5 +11,5 @@ author_profile: true
 |**Contact type** | **Reference**
 | Phone: | +49 176 25660032
 | WhatsApp: | [Send me a message!](https://wa.me/4917625660032){:target="_blank"}
-| E-mail: | mailto:career@schulz-artur.de
-| LinkedIn: | [LinkedIn profile](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}
+| E-mail: | [E-Mail me](mailto:career@schulz-artur.de)
+| LinkedIn: | [Open LinkedIn profile](https://www.linkedin.com/in/artur-schulz-473817b8/ "Artur's linkedin profile"){:target="_blank"}
