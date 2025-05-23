@@ -13,8 +13,16 @@ author_profile: true
   method="POST"
 >
   <label>
+    Your Name:
+    <textarea name="name"></textarea>
+  </label>
+  <label>
     Your email:
     <input type="email" name="email">
+  </label>
+  <label>
+    Company:
+    <textarea name="company"></textarea>
   </label>
   <label>
     Your message:
