@@ -5,12 +5,12 @@ main:
 
  - title: "Curiculum Vitae"
     url: /cv/
+ 
+ - title: "Request full CV"
+    url: /request_cv/
 
   - title: "Certificates"
     url: /certificates/
-
-  - title: "Goals"
-    url: /goals/
 
   - title: "Family"
     url: /family/
