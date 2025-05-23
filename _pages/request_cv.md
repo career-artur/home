@@ -14,7 +14,7 @@ author_profile: true
   <label for="email">Email:</label>
   <input type="email" id="email" name="email" required>
   
-  <label for="message">Nachricht:</label>
+  <label for="message">Message:</label>
   <textarea id="message" name="message" required></textarea>
   
   <button type="submit">Submit</button>
