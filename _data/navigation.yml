@@ -1,13 +1,13 @@
 # main links
 main:
  - title: "Contact"
-    url: /contact/
+   url: /contact/
 
  - title: "Curiculum Vitae"
-    url: /cv/
+   url: /cv/
  
  - title: "Request full CV"
-    url: /request-cv/
+   url: /request-cv/
 
  - title: "Certificates"
-    url: /certificates/
+   url: /certificates/
