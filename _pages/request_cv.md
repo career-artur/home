@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: <center>Request CV</center>
-permalink: /request-cv/
+permalink: /request_cv/
 author_profile: true
 ---
 
