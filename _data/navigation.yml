@@ -3,11 +3,11 @@ main:
  - title: "Contact"
    url: /contact/
 
- - title: "Curiculum Vitae"
+ - title: "CV"
    url: /cv/
  
- - title: "Request full CV"
-   url: /request-cv/
+ - title: "Request CV"
+   url: /request_cv/
 
  - title: "Certificates"
    url: /certificates/
