@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Contact"
+ - title: "Contact"
     url: /contact/
 
  - title: "Curiculum Vitae"
@@ -9,5 +9,5 @@ main:
  - title: "Request full CV"
     url: /request_cv/
 
-  - title: "Certificates"
+ - title: "Certificates"
     url: /certificates/
