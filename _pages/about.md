@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dear Recruiter"
+title: "Dear Recruiter,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
