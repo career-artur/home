@@ -9,6 +9,7 @@ author_profile: true
 
 
 |**Icon/Logo** | **Certificate Name** | **Certificate Organization** | **Date** | **Validity** | **Reference/URL**
+| <center><img src="../images/mb_ag_logo.jpg" width="50" height="50"></center> | Brand Ambassador Mercedes-Benz | Mercedes-Benz AG| Dec-2024 | - | - |
 | <center><img src="../images/ISTQB_CTFL.png" width="50" height="50"></center> | Certified Tester Foundation Level (CTFL) | ISTQB® - International Software Testing Qualifications Board| Jun-2013 | - | Credential ID 13-CTFL-34362-DE |
 | <center><img src="../images/PSPO_logo.png" width="50" height="50"></center> | Professional Scrum Product Owner™ I (PSPO I) | Scrum.org | 8-Mar-2020 | - | <a href="https://www.credly.com/earner/earned/badge/33440c1d-10aa-4e4c-a439-f49548897edf" target="_blank">Credly</a> |
 | <center><img src="../images/ms_azure_fundamentals.png" width="50" height="50"></center> | Microsoft Certified: Azure Fundamentals | Microsoft | 21-Jun-20 | - | <a href="https://www.credly.com/earner/earned/badge/b265234d-ec34-4268-be1e-08b5d24b501a" target="_blank">Credly</a> |
