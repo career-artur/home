@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/Foto_Artur.jpg" width="100" height="100"></img>I am Artur Schulz, a dedicated and results-driven IT professional with over 12 years of experience in automotive IT and engineering. I am eager to relocate to UAE and contribute to your company's success.
+I am Artur Schulz, a dedicated and results-driven IT professional with over 12 years of experience in automotive IT and engineering. I am eager to relocate to UAE and contribute to your company's success.
 
 🚀 Elevate and Diversify your organization with a reliable german IT spacialist with Exceptional Skills, Experience and Network.
 
