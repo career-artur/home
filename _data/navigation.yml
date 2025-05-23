@@ -7,7 +7,7 @@ main:
     url: /cv/
  
  - title: "Request full CV"
-    url: /request_cv/
+    url: /request-cv/
 
  - title: "Certificates"
     url: /certificates/
