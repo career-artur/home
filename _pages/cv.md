@@ -13,7 +13,6 @@ author_profile: true
 * C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence
 * Test Management, Certified Tester Foundation Level (ISTQB), automotive testing, test automation
 * Certified Azure Administrator, Microsoft Power Platform, PowerBI, SharePoint, Power Automate, Data Analytics, Service Oriented Architecture
-* Customer oriented, self-motivated, customer focused
 * Languages: German, Russian, English, French, Chinese
 
 Education
@@ -29,20 +28,17 @@ Work experience
   * Developed and implemented ITSM frameworks and Major Incident Management processes while delivering global ServiceNow training sessions.
   * Improved data quality for AI readiness and created PowerBI dashboards to track ITSM and production KPIs, supporting data-driven decision-making.
 
-  
   **Product/Service Owner – IoT platform administration & DevOps services (Azure)**
   * Led a cross-functional team of 11 experts to deliver and manage Azure-based IoT platform administration and DevOps services, generating over €400,000 in annual revenue
   * Delivered key operational improvements including IAM cost savings (€30,000/year), enhanced SSL certificate management, 24/7 cloud operations, and SRE support to boost security, uptime, and development efficiency.
   * Increased transparency and decision-making speed through PowerBI-based KPI/SLA reporting and improved team collaboration by implementing agile methodologies.
 
-  
   **Cloud Service Broker**
   * Solution Architecture consulting
     * Supported multiple applications to migrate to cloud or hybride cloud 
     * incl. Setup collaboration models for smooth operations
     * Led MB VAN Cloud Community
  
-
   **Mercedes-Benz Tech Innovation: Senior Test Engineer (08/2018 - 12/2018)**
   * Reviewed functional and technical documentation (User Stories in Jira, Confluence) for the "Mercedes me" App.
   * Designed and documented logical test cases, aligned with Customer Function Owner's and Release Management requirements, applying appropriate test techniques.
