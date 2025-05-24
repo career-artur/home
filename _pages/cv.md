@@ -24,7 +24,7 @@ Education
 Work experience
 ======
   **Mercedes-Benz AG: Senior Solution Architect (2019 - now)**</br>
-  **ServiceNow Champoin**
+  **ServiceNow Champion**
   * Led the ITSM transformation from CISM to ServiceNow for Mercedes-Benz Vans division, overseeing 400+ applications across six countries and reporting directly to the IT CTO.
   * Developed and implemented ITSM frameworks and Major Incident Management processes while delivering global ServiceNow training sessions.
   * Improved data quality for AI readiness and created PowerBI dashboards to track ITSM and production KPIs, supporting data-driven decision-making.
