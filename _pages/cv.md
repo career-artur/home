@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 # Skills
-* C#, Java, XML, JSON, HTML, UML, Visual Studio Code, Eclipse, Jira, Confluence, Cloud Computing, Cloud Consulting, SOA, Architecture
+* ServiceNow | Certified System Administrator | Common Service Data Model (CSDM) | CMDB | Certified ITIL v4 | IT Service Management | Major Incident Management | Change Management | Problem Management | ServiceNow Reporting/Dashboards | Transformation Management | Performance Management
 * Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
 * M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
 * ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, ServiceNow, Common Service Data Model (CSDM), CMDB, Transformation Management
