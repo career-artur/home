@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Artur Schulz, a dedicated and results-driven IT professional with over 12 years of experience in automotive IT and engineering. I am eager to relocate to UAE and contribute to your company's success.
+I am Artur Schulz, a dedicated and results-driven IT professional with over 12 years of international experience in automotive IT and engineering. I am eager to contribute to your company's success and relocate to Dubai.
 
-🚀 Elevate and Diversify your organization with a reliable german IT spacialist with Exceptional Skills, Experience and Network.
+🚀 Elevate and Diversify your organization with a reliable german IT spacialist with Exceptional Skills in ITSM, IT Infrastructure and Software Quality. Speaking multiple languages.
 
 📚 Ready to take a closer look? **[View my cv](https://career-artur.github.io/home/cv/){:target="_blank"}**: Explore my qualifications, skills, and professional experience. 
 
