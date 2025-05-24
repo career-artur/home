@@ -9,10 +9,11 @@ author_profile: true
 
 # Skills
 * **IT ServiceManagement:** ServiceNow Certified System Administrator, Common Service Data Model (CSDM), CMDB, Certified ITIL v4, IT Service Management, Major Incident Management, Change Management, Problem Management, ServiceNow Reporting/Dashboards, Transformation Management, Performance Management
-* **Agile collaboration:** Certified Professional Scrum Product Owner PSPO1, Certified Scaled Agile Framework SAFe v6, Service Owner, Cloud Operations, Scrum, Kanban, Project Management, Vendor Management,
-* **Coding & Integration:** C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence
-* **Software Quality Assurance:** Test Management, Certified Tester Foundation Level (ISTQB), automotive testing, test automation
+* **Agile Collaboration:** Certified Professional Scrum Product Owner PSPO1, Certified Scaled Agile Framework SAFe v6, Service Owner, Cloud Operations, Scrum, Kanban, Project Management, Vendor Management
+* **Coding & Integration:** C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence, Git
+* **Software Quality Assurance:** Test Management, Certified Tester Foundation Level (ISTQB), test automation
 * **Platforms & Architecture:** Certified Azure Administrator, Microsoft Power Platform, PowerBI, SharePoint, Power Automate, Data Analytics, Service Oriented Architecture
+* **Automotive:** Telematics, automotive testing
 * **Languages:** German, English, Russian 
 
 Education
@@ -22,7 +23,7 @@ Education
   
 Work experience
 ======
-  **Mercedes-Benz AG: Senior Solution Architect (2019 - now)**
+  **Mercedes-Benz AG: Senior Solution Architect (2019 - now)**</br>
   **ServiceNow Champoin**
   * Led the ITSM transformation from CISM to ServiceNow for Mercedes-Benz Vans division, overseeing 400+ applications across six countries and reporting directly to the IT CTO.
   * Developed and implemented ITSM frameworks and Major Incident Management processes while delivering global ServiceNow training sessions.
