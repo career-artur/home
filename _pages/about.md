@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dear Recruiter,"
+title: "Dear Recruiter, welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Artur Schulz, a dedicated and results-driven IT professional with over 12 years of international experience in automotive IT and engineering. I am eager to contribute to your company's success and relocate to Dubai.
+I'm Artur Schulz, a passionate IT professional with over 12 years of experience in automotive IT and engineering with international background. I’m committed to delivering results and excited about the opportunity to support your company’s growth with full readiness to relocate to Dubai.
 
-🚀 Elevate and Diversify Your Organization
-Partner with a reliable German IT specialist offering exceptional expertise in IT Service Management (ITSM), IT Infrastructure, and Software Quality Assurance. Fluent in multiple languages and ready to drive innovation and efficiency across global teams.
+🚀 Elevate and Diversify Your Organization: Partner with a reliable German IT specialist offering exceptional expertise in IT Service Management (ITSM), IT Infrastructure, and Software Quality Assurance. Fluent in multiple languages and ready to drive innovation and efficiency across global teams.
 
 📚 Ready to take a closer look? **[View my cv](https://career-artur.github.io/home/cv/){:target="_blank"}**: Explore my qualifications, skills, and professional experience. 
 
