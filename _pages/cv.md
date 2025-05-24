@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 # Skills
-* ServiceNow, Certified System Administrator, Common Service Data Model (CSDM), CMDB, Certified ITIL v4, IT Service Management, Major Incident Management, Change Management, Problem Management, ServiceNow Reporting/Dashboards, Transformation Management,Performance Management
-* Certified Professional Scrum Product Owner PSPO1, Certified Scaled Agile Framework SAFe v6, Service Owner, Cloud Operations, Scrum, Kanban, Project Management, Vendor Management, Automotive
-* C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence
-* Test Management, Certified Tester Foundation Level (ISTQB), automotive testing, test automation
-* Certified Azure Administrator, Microsoft Power Platform, PowerBI, SharePoint, Power Automate, Data Analytics, Service Oriented Architecture
-* Languages: German, Russian, English, French, Chinese
+* **IT ServiceManagement:** ServiceNow Certified System Administrator, Common Service Data Model (CSDM), CMDB, Certified ITIL v4, IT Service Management, Major Incident Management, Change Management, Problem Management, ServiceNow Reporting/Dashboards, Transformation Management, Performance Management
+* **Agile collaboration:** Certified Professional Scrum Product Owner PSPO1, Certified Scaled Agile Framework SAFe v6, Service Owner, Cloud Operations, Scrum, Kanban, Project Management, Vendor Management,
+* **Coding & Integration:** C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence
+* **Software Quality Assurance:** Test Management, Certified Tester Foundation Level (ISTQB), automotive testing, test automation
+* **Platforms & Architecture:** Certified Azure Administrator, Microsoft Power Platform, PowerBI, SharePoint, Power Automate, Data Analytics, Service Oriented Architecture
+* **Languages:** German, English, Russian 
 
 Education
 ======
