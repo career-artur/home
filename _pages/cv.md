@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 # Skills
-* ServiceNow | Certified System Administrator | Common Service Data Model (CSDM) | CMDB | Certified ITIL v4 | IT Service Management | Major Incident Management | Change Management | Problem Management | ServiceNow Reporting/Dashboards | Transformation Management | Performance Management
-* Test Management, ISTQB CTFL, API Testing, HP ALM, test automation, HP UFT, automotive testing, German/Chinese driving permit   
-* M365, SharePoint, PowerBI, Power Automate, Azure, Cloud Consulting, Data Analytics
-* ITIL, IT Service Management, Service Owner, (Major) Incident Management, Change Management, Problem Management, ServiceNow, Common Service Data Model (CSDM), CMDB, Transformation Management
-* Scrum, SAFe 6, Kanban
-* Customer oriented, self-motivated, service/product focused, growth mindset
+* ServiceNow, Certified System Administrator, Common Service Data Model (CSDM), CMDB, Certified ITIL v4, IT Service Management, Major Incident Management, Change Management, Problem Management, ServiceNow Reporting/Dashboards, Transformation Management,Performance Management
+* Certified Professional Scrum Product Owner PSPO1, Certified Scaled Agile Framework SAFe v6, Service Owner, Cloud Operations, Scrum, Kanban, Project Management, Vendor Management, Automotive
+* C#, Java, JavaScript, Docker, Kubernetes, Visual Studio Code, Eclipse, Jira, Confluence
+* Test Management, Certified Tester Foundation Level (ISTQB), automotive testing, test automation
+* Certified Azure Administrator, Microsoft Power Platform, PowerBI, SharePoint, Power Automate, Data Analytics, Service Oriented Architecture
+* Customer oriented, self-motivated, customer focused
 * Languages: German, Russian, English, French, Chinese
 
 Education
@@ -23,14 +23,25 @@ Education
   
 Work experience
 ======
-  **Mercedes-Benz AG: Solution Architect (2019 - now)**
-  * Plan, build and run internal Cloud Operations services generating over 400.000€ yearly revenue. As Product Owner, coordinated a development team of 11 experts, Enhanced service delivery efficiency by introducing agile methodologies (scrumban), improving security, and reducing costs. In 2022 successfully handed over all services to a new IT delivery partner.
-  * Spearheaded the ITSM transformation from CISM to ServiceNow at Mercedes-Benz Vans, overseeing 400 applications across multiple locations and reporting directly to the MB Vans IT CTO. Developed concepts, models, and blueprints for sustainable IT Service Management, conducted ServiceNow ITSM training for internal IT teams, and implemented Major Incident Management processes in multiple MB plants. Increased transparency by setting up Dashboards to track KPI's (MTTR, FTR, CFR)
+  **Mercedes-Benz AG: Senior Solution Architect (2019 - now)**
+  **ServiceNow Champoin**
+  * Led the ITSM transformation from CISM to ServiceNow for Mercedes-Benz Vans division, overseeing 400+ applications across six countries and reporting directly to the IT CTO.
+  * Developed and implemented ITSM frameworks and Major Incident Management processes while delivering global ServiceNow training sessions.
+  * Improved data quality for AI readiness and created PowerBI dashboards to track ITSM and production KPIs, supporting data-driven decision-making.
+
+  
+  **Product/Service Owner – IoT platform administration & DevOps services (Azure)**
+  * Led a cross-functional team of 11 experts to deliver and manage Azure-based IoT platform administration and DevOps services, generating over €400,000 in annual revenue
+  * Delivered key operational improvements including IAM cost savings (€30,000/year), enhanced SSL certificate management, 24/7 cloud operations, and SRE support to boost security, uptime, and development efficiency.
+  * Increased transparency and decision-making speed through PowerBI-based KPI/SLA reporting and improved team collaboration by implementing agile methodologies.
+
+  
+  **Cloud Service Broker**
   * Solution Architecture consulting
     * Supported multiple applications to migrate to cloud or hybride cloud 
     * incl. Setup collaboration models for smooth operations
     * Led MB VAN Cloud Community
-    * ServiceNow Champion (internal ITSM/ServiceNow SME)
+ 
 
   **Mercedes-Benz Tech Innovation: Senior Test Engineer (08/2018 - 12/2018)**
   * Reviewed functional and technical documentation (User Stories in Jira, Confluence) for the "Mercedes me" App.
