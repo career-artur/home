@@ -7,11 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Projekts
-======
-* Project 1 
-* Project 2
-  * Sub-project 2.1
-  * Sub-project 2.2
-  * Sub-project 2.3
-* Skill 3
+
+|**Project name** | **Project summary** | **Skills** | **Role** | **Date** |
+
+| Major Incident Improvement | tbd. | tbd. | Project lead, Solution Architect | 2025 - today |
+| ServiceNow Cleanup | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2024 |
+| ServiceNow Pro | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2023 |
+| ServiceNow Transformation | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
+| Major Incident Managment ServiceNow | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
+| OLU IoT platform | tbd. tbd. | Service Owner | 2022 |
+| MPRO Connect | tbd. | Azure Administrator | Service Owner | 2019 |
+| Mercdedes me Connect China | tbd. | tbd | Test Manager | 2021 - 2022 |
+| Mercdedes me Connect Cars/Van | tbd. | tbd | Test Enginner | 2021 - 2022 |
+| Atersales backend Test automation | tbd. | tbd. | tbd. |
