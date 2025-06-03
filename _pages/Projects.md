@@ -11,6 +11,7 @@ author_profile: true
 |**Project name** | **Project summary** | **Skills** | **Role** | **Date** |
 
 | Major Incident Improvement | tbd. | tbd. | Project lead, Solution Architect | 2025 - today |
+| Production System Cloud Migration | tbd. | tbd. | Solution Architect Infrastructure | 2025 |
 | ServiceNow Cleanup | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2024 |
 | ServiceNow Pro | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2023 |
 | ServiceNow Transformation | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
