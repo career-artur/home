@@ -16,11 +16,6 @@ author_profile: true
 * **Automotive:** Telematics, Automotive Testing
 * **Languages:** German, English, Russian 
 
-Education
-======
-* **B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/ "Karlsruhe Institute of Technology"){:target="_blank"},** 2012
-  * **Thesis:** “Test optimization through [Combinatorial Test Design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ?mhsrc=ibmsearch_a&mhq=combinatorial%20test%20design "Combinatorial Test Design (CTD)"){:target="_blank"} @IBM, 2012
-  
 Work experience
 ======
   **Mercedes-Benz AG: Senior Solution Architect (2019 - Now)**
@@ -56,4 +51,10 @@ Work experience
   * Engaged in diverse Quality Assurance projects at Mercedes-Benz Connected Car Test (RD) and served as Test Manager for Mercedes me connect China (desktop and mobile app)
   * Led Onsite/Offsite E2E Test coordination, knowledge transfer, and Go-live enablement, including RFI Test Coordination & RGA support.
   * Implemented custom testing tools, established test automation frameworks, run and maintained automated tests for multesystems and applications at Mercedes-Benz.
+
+  Education
+======
+* **B.Sc. in Information and Engineering, [Karlsruhe Institue of Technology (KIT)](https://www.kit.edu/english/ "Karlsruhe Institute of Technology"){:target="_blank"},** 2012
+  * **Thesis:** “Test optimization through [Combinatorial Test Design (CTD)](https://www.ibm.com/downloads/cas/GANDBVKQ?mhsrc=ibmsearch_a&mhq=combinatorial%20test%20design "Combinatorial Test Design (CTD)"){:target="_blank"} @IBM, 2012
+  
   
