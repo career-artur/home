@@ -10,7 +10,7 @@ author_profile: true
 
 |**Project Title** | **Role** | **Skills** | **Description** | **Result** | **Date** |
 | Major Incident Improvement | Project lead, Solution Architect | *Project Management *Coordination | Improve KPI's | open | March 2025 - today |
-| Production System Cloud Migration | Senior Solution Architect Infrastructure | *Vendormanagement *Infrastrcutre | Migrate a car manufactruing production system to hybride cloud | ongoing | 2025 - today |
+| Production System Cloud Migration | Senior Solution Architect Infrastructure | <ul><li>Vendormanagement</li><li>Infrastrcutre</li></ul> | Migrate a car manufactruing production system to hybride cloud | ongoing | 2025 - today |
 | Shopfloor Dashboard | Data Engineer/Solution Architect | *ServiceNow *PowerBI *Power Automate | Build up a Dashbaord for Management | successfully setup a dishboard for MB VAN division | 2023 - today |
 | ServiceNow Cleanup | Subject Matter Expert/ ServiceNow Champion | tbd. |  | 2024 |
 | ServiceNow Pro | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2023 |
