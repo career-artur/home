@@ -18,7 +18,7 @@ author_profile: true
 | Major Incident Managment ServiceNow | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
 | OLU IoT platform | tbd. | tbd. | Service Owner | 2022 |
 | MPRO Connect | tbd. | Azure Administrator | Service Owner | 2019 |
-| Mercdedes me Connect China | tbd. | tbd | Test Manager | 2021 - 2022 |
+| Mercdedes me Connect China | Test Manager | - Reporting <br> -  | Sucessful Golive  | 2016 - 2018 |
 | Mercdedes me Connect Cars/Van | tbd. | tbd | Test Engineer | 2021 - 2022 |
 | Atersales backend test automation | tbd. | tbd. | tbd. |
-| Xentry Diagnostics | tbd. | Testing, Simulations | Test Engineer | 2012 - 2014
+| Xentry Diagnostics | Test Engineer | Testing, Simulations |  | 2012 - 2014
