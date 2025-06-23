@@ -6,19 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Shopfloor Dashboard Development | Oct. 2023 – Today | Power BI Developer and Data Analyst
+- Developed and enhanced a Power BI dashboard with ITSM data, enabling effective decision-making for the MB VAN IT division.
 
+## ServiceNow Transformation | October 2020 – 2021 | Transformation Manager
+- Led the successful ITSM onboarding of Mercedes-Benz Vans division, integrating 400 applications and establishing a global major incident management process for multiple MB Vans plants.
 
-|**Project Title** | **Role** | **Skills** | **Description** | **Result** | **Date** |
-| Major Incident Improvement | Project lead, Solution Architect | - Project Management <br> - Coordination | Improve KPI's | open | March 2025 - today |
-| Production System Cloud Migration | Senior Solution Architect Infrastructure | - Vendormanagement <br> - Infrastrcutre | Migrate a car manufactruing production system to hybride cloud | ongoing | 2025 - today |
-| Shopfloor Dashboard | Data Engineer/Solution Architect | - ServiceNow <br> - PowerBI <br> - Power Automate | Build up a Dashbaord for Management | successfully setup a dashboard for MB VAN division | 2023 - today |
-| ServiceNow Cleanup | Subject Matter Expert/ ServiceNow Champion | tbd. |  | 2024 |
-| ServiceNow Pro | tbd. | tbd. | Subject Matter Expert/ ServiceNow Champion | 2023 |
-| ServiceNow Transformation | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
-| Major Incident Managment ServiceNow | tbd. | tbd | Transformation Manager, Solution Architect | 2021 - 2022 |
-| OLU IoT platform | tbd. | tbd. | Service Owner | 2022 |
-| MPRO Connect | tbd. | Azure Administrator | Service Owner | 2019 |
-| Mercdedes me Connect China | Test Manager | - Reporting <br> -  | Sucessful Golive  | 2016 - 2018 |
-| Mercdedes me Connect Cars/Van | tbd. | tbd | Test Engineer | 2021 - 2022 |
-| Atersales backend test automation | tbd. | tbd. | tbd. |
-| Xentry Diagnostics | Test Engineer | Testing, Simulations |  | 2012 - 2014
+## Mercedes Me Connect China | Jul. 2015 – Dec. 2017 | Test Manager
+- Led test organization onboarding in China, ensuring a successful go-live and high software quality for the Mercedes Me Connect platform.
