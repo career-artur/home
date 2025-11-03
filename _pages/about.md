@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Artur Schulz, a passionate IT professional with over 12 years of experience in automotive IT and engineering with international background. I’m committed to delivering results and excited about the opportunity to support your company’s growth with full readiness to relocate to Dubai.
+I'm Artur Schulz, a passionate IT professional with over 12 years of experience in automotive IT and engineering with international background. I’m committed to delivering results and excited about the opportunity to support your company’s growth with full readiness to relocate to UAE.
 
 🚀 Elevate and Diversify Your Organization: Partner with a reliable German IT specialist offering exceptional expertise in IT Service Management (ITSM), IT Infrastructure, and Software Quality Assurance. Fluent in multiple languages and ready to drive innovation and efficiency across global teams.
 
