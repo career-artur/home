@@ -24,10 +24,9 @@ author_profile: true
 ## Key Achievements  
 - Optimized **Major Incident and Problem Management Processes**  
 - Developed **PowerBI KPI dashboards** adopted division-wide for data-driven decisions  
-- Led **ServiceNow ITSM transformation** for Mercedes-Benz Vans – **400+ global apps**, reported to CTO  
+- Led **ServiceNow ITSM transformation** for Mercedes-Benz Vans – **400+ global business apps**, reported to CTO  
 - Established **ITSM Processes incl. Major Incident Management** in 4 plants – reduced MTTR & financial loss  
-- Delivered multiple **Infrastructure Services** with 11-member DevOps team  
-  - Saved **€30K p.a.** via Azure IAM; boosted uptime via 24/7 Cloud Ops  
+- Delivered multiple **Infrastructure Services** with 11-member DevOps team 
 - Ensured a successful Go-Live of **Mercedes me Connect** in China by leading software quality assurance for a car connectivity solution  
 
 ---
