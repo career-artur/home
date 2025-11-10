@@ -35,8 +35,8 @@ author_profile: true
 ## Professional Experience  
 
 **Senior Solution Architect – Global Operations**  
-*[Mercedes-Bnez AG](https://www.mercedes-benz.com/en/){:target="_blank"}, Stuttgart | 2019 – Present*  
-- **ITSM/Expert/ServiceNow Champion**: optimizing Major Incident and Problem Management  
+*[Mercedes-Benz AG](https://www.mercedes-benz.com/en/){:target="_blank"}, Stuttgart | 2019 – Present*  
+- **ITSM Expert/ServiceNow Champion**: optimizing Major Incident and Problem Management  
 - **PowerBI Developer**: Built shopfloor & ITSM dashboards for senior leadership  
 - **ITSM Transformation Lead**: Migrated MB Vans from CISM to **ServiceNow** – trained 100+ users  
 - **Product Owner/Service Owner**: Led 11 experts; delivered IAM, SRE, SSL, 24/7 Ops, PowerBI Reporting  
@@ -46,7 +46,7 @@ author_profile: true
 - Built end-to-end test org in China; enabled go-live for connectivity platform  
 
 **Test Engineer/Test Architect – Mercedes Me Connect**  
-*Mercedes-Benz Tech Innovation | 2012 - 2014*  
+*[Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en){:target="_blank"} | 2012 - 2014*  
 - Held progressive QA roles in Mercedes-Benz Connected Car projects
 
 **Thesis Student - Combinatorial Test Design**  
