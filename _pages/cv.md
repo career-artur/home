@@ -9,25 +9,24 @@ author_profile: true
 
 # Artur Schulz  
 **Senior Solution Architect | Certified ITSM & ServiceNow Expert | Dubai, UAE**  
-📞 +49 176 25660032 | [WhatsApp Available](https://wa.me/4917625660032){:target="_blank"} | 📧 career@schulz-artur.de  
-🔗 [linkedin](https://www.linkedin.com/in/artur-schulz-473817b8/) | 🌍 **Open to relocation to Dubai, UAE – Available Q1 2026**  
+📞 +49 176 25660032 | [WhatsApp Available](https://wa.me/4917625660032){:target="_blank"} | 📧 mailto:career@schulz-artur.de  
+🔗 [linkedin](https://www.linkedin.com/in/artur-schulz-473817b8/){:target="_blank"} | 🌍 **Open to relocation to Dubai, UAE – Available Q1 2026**  
 *German National – Eligible for UAE Employment Visa*
 
 ---
 
 ## Professional Summary  
-**ServiceNow Certified Administrator & ITSM Transformation Leader** with 13+ years at **Mercedes-Benz**, driving global digital transformation. Expert in **ServiceNow, Azure, PowerBI, IT Service Management, Agile (SAFe, PSPO1) and Software Quality Assurance**.  
-**Targeting Senior Solution Architecture / ITSM / ServiceNow / Cloud Operations roles in Dubai, UAE** (Automotive, Government, Consulting, FinTech).
+**IT Expert** with 13+ years at **Mercedes-Benz**, driving global digital transformation. Expert in **Software Quality Assurance, IT Service Management and IT Service Delivery, ServiceNow, Azure, PowerBI, Agile (SAFe, PSPO1)**.  
+**Targeting Leadership/ Senior Solution Architecture / ITSM / ServiceNow / Cloud Operations roles in Dubai, UAE** (Automotive, Government, Consulting, FinTech, AI).
 
 ---
 
 ## Key Achievements  
-- Optimized **Major Incident and Problem Management Processes**  
 - Developed **PowerBI KPI dashboards** adopted division-wide for data-driven decisions  
-- Led **ServiceNow ITSM transformation** for Mercedes-Benz Vans – **400+ global business apps**, reported to CTO  
+- Led **ServiceNow ITSM Transformation** for Mercedes-Benz Vans – **400+ global business apps**, reported to CTO  
 - Established **ITSM Processes incl. Major Incident Management** in 4 plants – reduced MTTR & financial loss  
-- Delivered multiple **Infrastructure Services** with 11-member DevOps team 
-- Ensured a successful Go-Live of **Mercedes me Connect** in China by leading software quality assurance for a car connectivity solution  
+- Delivered multiple **Infrastructure Services** with 11-expert team 
+- Ensured a successful Go-Live of **Mercedes me Connect** in China by coordinating software quality assurance for a car connectivity solution  
 
 ---
 
