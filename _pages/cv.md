@@ -56,7 +56,7 @@ author_profile: true
 ## Certifications  
 - ServiceNow Certified System Administrator  
 - ITIL v4 Foundation  
-- PSPOI | SAFe 6  
+- PSPOI, SAFe 6  
 - ISTQB Certified Tester  
 - Azure Administrator Associate  
 
@@ -75,7 +75,7 @@ author_profile: true
 ## Education  
 **B.Sc. Information Engineering & Management**  
 [Karlsruhe Institute of Technology (KIT) | 2010](https://www.kit.edu/){:target="_blank"}  
-*[Thesis: Test Optimization via Combinatorial Design (CTD)](https://www.nist.gov/programs-projects/combinatorial-testing){:target="_blank"}* 
+*Thesis:[Test Optimization via Combinatorial Design (CTD)](https://www.nist.gov/programs-projects/combinatorial-testing){:target="_blank"}* 
 
 ---
 
