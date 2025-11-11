@@ -45,11 +45,11 @@ author_profile: true
 
 **Test Engineer/Test Architect – Mercedes Me Connect**  
 *[Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en){:target="_blank"}, Stuttgart | 2012 - 2014*  
-- Held progressive QA roles in Mercedes-Benz Connected Car projects
+*Held progressive QA roles in Mercedes-Benz Connected Car projects*
 
 **Thesis Student - Combinatorial Test Design**  
-*IBM (Deutschland) RD GmbH, Stuttgart| 2011 - 2012*  
-- Researched and applied combinatorial black box test techniques 
+*IBM (Deutschland) RD GmbH, Stuttgart | 2011 - 2012*  
+*Researched and applied combinatorial black box test techniques*
 
 ---
 
