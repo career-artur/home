@@ -44,11 +44,11 @@ author_profile: true
 - Built end-to-end test org in China; enabled go-live for connectivity platform  
 
 **Test Engineer/Test Architect – Mercedes Me Connect**  
-*[Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en){:target="_blank"} | 2012 - 2014*  
+*[Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en){:target="_blank"}, Stuttgart | 2012 - 2014*  
 - Held progressive QA roles in Mercedes-Benz Connected Car projects
 
 **Thesis Student - Combinatorial Test Design**  
-*IBM (Deutschland) RD GmbH| 2011 - 2012*  
+*IBM (Deutschland) RD GmbH, Stuttgart| 2011 - 2012*  
 - Researched and applied combinatorial black box test techniques 
 
 ---
