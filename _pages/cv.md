@@ -9,7 +9,7 @@ author_profile: true
 
 # Artur Schulz  
 **Senior Solution Architect | Certified ITSM & ServiceNow Expert | Dubai, UAE**  
-📞 +49 176 25660032 | [WhatsApp Available](https://wa.me/4917625660032){:target="_blank"} | 📧 mailto:career@schulz-artur.de  
+📞 +49 176 25660032 | [WhatsApp Available](https://wa.me/4917625660032){:target="_blank"} | 📧 [career@schulz-artur.de](mailto:career@schulz-artur.de)  
 🔗 [linkedin](https://www.linkedin.com/in/artur-schulz-473817b8/){:target="_blank"} | 🌍 **Open to relocation to Dubai, UAE – Available Q1 2026**  
 *German National – Eligible for UAE Employment Visa*
 
