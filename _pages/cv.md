@@ -56,7 +56,7 @@ author_profile: true
 ## Certifications  
 - ServiceNow Certified System Administrator  
 - ITIL v4 Foundation  
-- PSPO1 | SAFe 6  
+- PSPOI | SAFe 6  
 - ISTQB Certified Tester  
 - Azure Administrator Associate  
 
@@ -86,5 +86,5 @@ author_profile: true
 ---
 
 <br>
-<img src=".../images/signature.png">
+<img src="/./images/signature.png">
 <br>
