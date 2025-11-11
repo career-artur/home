@@ -86,5 +86,5 @@ author_profile: true
 ---
 
 <br>
-<img src="images/signature.png">
+<img src=".../images/signature.png">
 <br>
