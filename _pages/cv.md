@@ -26,7 +26,7 @@ author_profile: true
 - Led **ServiceNow ITSM Transformation** for Mercedes-Benz Vans – **400+ global business apps**, reported to CTO  
 - Established **ITSM Processes incl. Major Incident Management** in 4 plants – reduced MTTR & financial loss  
 - Delivered multiple **Infrastructure Services** with 11-expert team 
-- Ensured a successful Go-Live of **Mercedes me Connect** in China by coordinating software quality assurance for a car connectivity solution  
+- Ensured a successful Go-Live of **Mercedes me Connect** in China by coordinating and supporting quality assurance activities for a car connectivity solution  
 
 ---
 
@@ -39,13 +39,16 @@ author_profile: true
 - **ITSM Transformation Lead**: Migrated MB Vans from CISM to **ServiceNow** – trained 100+ users  
 - **Product Owner/Service Owner**: Led 11 experts; delivered IAM, SRE, SSL, 24/7 Ops, PowerBI Reporting  
  
+
 **E2E Test Manager – Mercedes Me Connect China**  
 *[Mercedes-Benz Group China](https://www.mercedes-benz.com.cn/homepage.html){:target="_blank"}, Beijing | 2016 – 2018*  
 - Built end-to-end test org in China; enabled go-live for connectivity platform  
 
+
 **Test Engineer/Test Architect – Mercedes Me Connect**  
 *[Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en){:target="_blank"}, Stuttgart | 2012 - 2014*  
 *Held progressive QA roles in Mercedes-Benz Connected Car projects*
+
 
 **Thesis Student - Combinatorial Test Design**  
 *IBM (Deutschland) RD GmbH, Stuttgart | 2011 - 2012*  
@@ -53,10 +56,11 @@ author_profile: true
 
 ---
 
-## Certifications  
+## [Certifications](https://career-artur.github.io/home/certificates/)  
 - ServiceNow Certified System Administrator  
 - ITIL v4 Foundation  
-- PSPOI, SAFe 6  
+- PSPOI, SAFe 6
+- DevOps  
 - ISTQB Certified Tester  
 - Azure Administrator Associate  
 
